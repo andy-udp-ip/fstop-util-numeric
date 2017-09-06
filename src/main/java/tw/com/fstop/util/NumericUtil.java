@@ -26,6 +26,12 @@ public class NumericUtil
     //Default divide result scale
     static final int DEF_DIV_SCALE = 10;
     
+    /**
+     * Check if input string is numeric string.
+     * 
+     * @param numeric input string
+     * @return true/false
+     */
     public static boolean isNumeric(String numeric)
     {
         try
