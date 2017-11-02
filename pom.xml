@@ -3,7 +3,7 @@
   <groupId>tw.com.fstop</groupId>
   <artifactId>fstop-util-numeric</artifactId>
   <packaging>jar</packaging>
-  <version>1.0.2-SNAPSHOT</version>
+  <version>1.0.2</version>
   
   <name>fstop-util-numeric</name>
   <url>https://github.com/andy-udp-ip/fstop-util-numeric</url>
@@ -60,7 +60,7 @@
 	<connection>scm:git:git@github.com:andy-udp-ip/fstop-util-numeric.git</connection>
 	<url>scm:git:git@github.com:andy-udp-ip/fstop-util-numeric.git</url>
 	<developerConnection>scm:git:git@github.com:andy-udp-ip/fstop-util-numeric.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>v1.0.2</tag>
   </scm>    
 
   
